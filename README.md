@@ -44,8 +44,8 @@ VS Code, Figma, REST APIs, Postman
 ## 📬 Contact Me  
 
 - 📧 Email: [mayanksahu3506@gmail.com](mailto:mayanksahu3506@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mayank-sahu-b3b48a32b/](https://www.linkedin.com/in/mayank-sahu-b3b48a32b/)]  
-- 💻 GitHub: [Your GitHub profile URL here]  
+- 💼 LinkedIn: [linkedin.com/in/mayank-sahu-b3b48a32b/](https://www.linkedin.com/in/mayank-sahu-b3b48a32b/)
+- 💻 GitHub: [github.com/MayankSahu37](https://github.com/MayankSahu37)
 
 ---
 
