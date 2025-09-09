@@ -1,7 +1,7 @@
 Mayank Sahu's Portfolio
 
 👨‍💻 Professional Summary
-I'm an industrial-level Software and Data Engineer with a robust background in Java, Python, and full-stack development. My expertise lies in building AI-driven applications, deploying scalable solutions on AWS, and leveraging data to analyze user behavior. I'm passionate about combining software engineering, data science, and machine learning to create innovative, impactful products.
+I'm an industrial-level Software Engineer with a strong foundation in Web Development, Java, and Cybersecurity. I specialize in building fast, responsive, and secure web applications, with a focus on performance, scalability, and user experience.
 
 🛠️ Technical Skills
 Languages: Java, Python, JavaScript, Shell Scripting(Bash), HTML , CSS, SQL (MariaDB, MySQL) 
