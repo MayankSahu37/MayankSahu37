@@ -4,7 +4,7 @@
 I'm an industrial-level **Software Engineer** with a strong foundation in **Web Development**, **Java**, and **Cybersecurity**.  
 I specialize in building **fast**, **responsive**, and **secure** web applications with a focus on performance, scalability, and user experience.
 
-I'm passionate about combining **software engineering**, **data science**, and **machine learning** to create innovative and impactful digital solutions. I enjoy solving real-world problems through code, and continuously strive to grow both technically and creatively.
+I'm passionate about combining my skills in **software engineering**, **data science**, and **cyber security** to create innovative and impactful digital solutions. I enjoy solving real-world problems through code, and continuously strive to grow both technically and creatively.
 
 ---
 
